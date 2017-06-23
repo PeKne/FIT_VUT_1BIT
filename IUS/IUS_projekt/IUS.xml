@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI timestamp="2016-11-22T11:42:26" xmlns:UML="http://schema.omg.org/spec/UML/1.3" xmi.version="1.2" verified="false">
+ <XMI.header>
+  <XMI.documentation>
+   <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
+   <XMI.exporterVersion>1.6.9</XMI.exporterVersion>
+   <XMI.exporterEncoding>UnicodeUTF8</XMI.exporterEncoding>
+  </XMI.documentation>
+  <XMI.metamodel xmi.version="1.3" xmi.name="UML" href="UML.xml"/>
+ </XMI.header>
+ <XMI.content>
+  <UML:Model isRoot="false" xmi.id="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="UML Model">
+   <UML:Namespace.ownedElement>
+    <UML:Stereotype visibility="public" isRoot="false" xmi.id="folder" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="folder"/>
+    <UML:Stereotype visibility="public" isRoot="false" xmi.id="datatype" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="datatype"/>
+    <UML:Model visibility="public" isRoot="false" xmi.id="Logical View" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="Logical View">
+     <UML:Namespace.ownedElement>
+      <UML:Package stereotype="folder" visibility="public" isRoot="false" xmi.id="Datatypes" namespace="Logical View" isLeaf="false" isSpecification="false" isAbstract="false" name="Datatypes">
+       <UML:Namespace.ownedElement>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="vIsP6DSJ23ce" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="int"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="DdSzSkg1uh8G" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="char"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="7ZrKJH1CXtbd" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="bool"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="42u45XiGAAFa" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="float"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="submbj0hJrza" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="double"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="60ldrMGtMBxS" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="short"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="idiqlwRdq0NP" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="long"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="kN41C3ZJ1Kuq" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="unsigned int"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="fBh1KeR0FAo0" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="unsigned short"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="4FduG0JyLMxY" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="unsigned long"/>
+        <UML:DataType stereotype="datatype" visibility="public" isRoot="false" xmi.id="PUrPpjFSsvTC" namespace="Datatypes" isLeaf="false" isSpecification="false" isAbstract="false" name="string"/>
+       </UML:Namespace.ownedElement>
+      </UML:Package>
+     </UML:Namespace.ownedElement>
+     <XMI.extension xmi.extender="umbrello">
+      <diagrams>
+       <diagram linecolor="#ff0000" showstereotype="1" showscope="1" canvaswidth="0" snapcsgrid="0" fillcolor="#ffffc0" backgroundcolor="#ffffff" type="1" canvasheight="0" showops="1" showattsig="1" snapgrid="0" linewidth="0" name="class diagram" zoom="100" font="Sans Serif,9,-1,5,50,0,0,0,0,0" showopsig="1" showpackage="1" documentation="" localid="-1" showgrid="0" snapy="25" showattribassocs="1" showatts="1" isopen="0" griddotcolor="#d3d3d3" snapx="25" xmi.id="bC17OQTbEkRj" usefillcolor="0" textcolor="#000000" showpubliconly="0">
+        <widgets/>
+        <messages/>
+        <associations/>
+       </diagram>
+      </diagrams>
+     </XMI.extension>
+    </UML:Model>
+    <UML:Model visibility="public" isRoot="false" xmi.id="Use Case View" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="Use Case View">
+     <UML:Namespace.ownedElement/>
+     <XMI.extension xmi.extender="umbrello">
+      <diagrams>
+       <diagram linecolor="#ff0000" showstereotype="1" showscope="1" canvaswidth="0" snapcsgrid="0" fillcolor="#ffffc0" backgroundcolor="#ffffff" type="2" canvasheight="0" showops="1" showattsig="1" snapgrid="0" linewidth="0" name="use case diagram" zoom="100" font="Sans Serif,9,-1,5,50,0,0,0,0,0" showopsig="1" showpackage="1" documentation="" localid="-1" showgrid="0" snapy="25" showattribassocs="1" showatts="1" isopen="1" griddotcolor="#d3d3d3" snapx="25" xmi.id="ZvAn3zn7CPzQ" usefillcolor="0" textcolor="#000000" showpubliconly="0">
+        <widgets/>
+        <messages/>
+        <associations/>
+       </diagram>
+      </diagrams>
+     </XMI.extension>
+    </UML:Model>
+    <UML:Model visibility="public" isRoot="false" xmi.id="Component View" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="Component View">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isRoot="false" xmi.id="Deployment View" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="Deployment View">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isRoot="false" xmi.id="Entity Relationship Model" namespace="m1" isLeaf="false" isSpecification="false" isAbstract="false" name="Entity Relationship Model">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+   </UML:Namespace.ownedElement>
+  </UML:Model>
+ </XMI.content>
+ <XMI.extensions xmi.extender="umbrello">
+  <docsettings viewid="ZvAn3zn7CPzQ" uniqueid="ZvAn3zn7CPzQ" documentation=""/>
+  <listview>
+   <listitem id="Views" type="800" open="1">
+    <listitem id="Component View" type="821" open="1"/>
+    <listitem id="Deployment View" type="827" open="1"/>
+    <listitem id="Entity Relationship Model" type="836" open="1"/>
+    <listitem id="Logical View" type="801" open="1">
+     <listitem id="bC17OQTbEkRj" label="class diagram" type="807" open="0"/>
+     <listitem id="Datatypes" type="830" open="0">
+      <listitem id="7ZrKJH1CXtbd" type="829" open="1"/>
+      <listitem id="DdSzSkg1uh8G" type="829" open="1"/>
+      <listitem id="submbj0hJrza" type="829" open="1"/>
+      <listitem id="42u45XiGAAFa" type="829" open="1"/>
+      <listitem id="vIsP6DSJ23ce" type="829" open="1"/>
+      <listitem id="idiqlwRdq0NP" type="829" open="1"/>
+      <listitem id="60ldrMGtMBxS" type="829" open="1"/>
+      <listitem id="PUrPpjFSsvTC" type="829" open="1"/>
+      <listitem id="kN41C3ZJ1Kuq" type="829" open="1"/>
+      <listitem id="4FduG0JyLMxY" type="829" open="1"/>
+      <listitem id="fBh1KeR0FAo0" type="829" open="1"/>
+     </listitem>
+    </listitem>
+    <listitem id="Use Case View" type="802" open="1">
+     <listitem id="ZvAn3zn7CPzQ" label="use case diagram" type="805" open="0"/>
+    </listitem>
+   </listitem>
+  </listview>
+  <codegeneration>
+   <codegenerator language="C++"/>
+  </codegeneration>
+ </XMI.extensions>
+</XMI>
