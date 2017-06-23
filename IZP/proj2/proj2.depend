@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478598732 source:/home/pitrs/Desktop/proj2/proj2/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1478788420 source:/home/pitrs/Desktop/proj2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1478950401 source:e:\drive google\proj2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
