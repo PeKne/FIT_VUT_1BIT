@@ -1,0 +1,12 @@
+komentáře - každý
+makefile - Petr
+doxyfile - Prukner
+uživatelská příručka - Prukner
+tlačítko na destinnou čárku - Prukner
+math - logaritmus - Honza
+            - základní - Honza
+            - faktorial - Honza
+instalator - Petr
+profiling - Prukner
+mockup další verze - Honza
+debuging - pdb - Petr

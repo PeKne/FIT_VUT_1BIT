@@ -1,0 +1,4 @@
+Nepracovali jsme přesně podle plánu. Zpočátku nás ovládal dojem, že je ještě spousta času. Proto jsme testy dokončili,
+až zhruba o dvacet dní později než bylo původně v plánu - 13. 4. Implementace matematické knihovny a opravy testů byly
+dokončeny 20. 4.
+Zbytek prací jsme dokončili za zbývající čtyři dny.

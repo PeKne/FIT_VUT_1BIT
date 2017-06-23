@@ -1,0 +1,11 @@
+PROJECT_NAME      = "Pejaja calculator"
+OUTPUT_DIRECTORY  = docs
+GENERATE_LATEX    = NO
+GENERATE_MAN      = NO
+GENERATE_RTF      = NO
+OPTIMIZE_OUTPUT_JAVA = YES
+INPUT             =
+RECURSIVE         = YES
+QUIET             = NO
+JAVADOC_AUTOBRIEF = YES
+SEARCHENGINE      = NO

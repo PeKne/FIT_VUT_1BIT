@@ -1,0 +1,25 @@
+Stanovené milníky:
+    testy pro matematickou knihovnu     20. 3. 2017
+    implementace matematické knihovny    3. 4. 2017
+    uživatelské rozhraní                10. 4. 2017
+    profiling, příručka                 15. 4. 2017
+    mockup další verze                  18. 4. 2017
+    dokončení a odevzdání               24. 4. 2017
+
+Rozdělení úkolů řešitelům:
+    S týmem jsme se shodli, že nejlepší bude se minimálně po každém milníku sejít a pře/rozdělit další práci.
+    Pokud by měl jeden člen psát testy, další členové mohou pracovat jen na uživatelském rozhraní.
+    Proto jsme se rozhodli, že na testech budeme dělat všichni. Myslím si, že zvláť u testů se
+    vyplatí, že je budou psát různí lidé.
+    Tedy, testy pro matematickou knihovnu byly rozděleny následovně:
+        xknetl00 - umocňování s přirozeným exponentem
+        xkosek03 - základní operace (+, -, *, /), faktoriál, obecná odmocnina
+        xprukn00 - další funkce - vybrali jsme si přirozený logaritmus
+
+    Mimo testů budu pracovat (xprukn00) na návrhu systému. Máme v plánu použít návrhový vzor MVC.
+
+Systém pro správu verzí: Git
+Repozitář:               https://github.com/xprukn00/pejaja-calc-ivs
+Umožnil jsem přístup uživateli ivskontrola
+
+Pro komunikaci používáme Facebook.
